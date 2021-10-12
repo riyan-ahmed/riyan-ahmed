@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 </p>
 
 <h4>
-<img src="logos/user.svg" height="30" width="30" align="left">
+<img src="logos/user.svg" height="40" width="40" align="left">
 <a href="https://www.instagram.com/riyan.a/" target="blank">riyan.a</a>
 </h4> 
-<br>
 <p>and my discord is <a href="https://discord.com/users/320781028165812236" target="blank">R.A#7406</a>
 </p>
 
