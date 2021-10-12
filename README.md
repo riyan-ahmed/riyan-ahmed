@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tree](logos/zakurotree.svg?raw=true "Tree")
+<img src="logos/zakurotree.svg" height="400" alt="tree"/>
 
 <p>
 <img src="logos/like.svg" height="50" width="50" align="left"><img src="logos/comment.svg" height="50" width="50"><img src="logos/blank.svg" height="50" width="20"><img src="logos/send.svg" height="50" width="50" ><img src="logos/save.svg" align="right" height="50" width="50">
