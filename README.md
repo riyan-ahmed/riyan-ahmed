@@ -1,5 +1,5 @@
-### Stop looking at my profile 🤬
-
+# Stop looking at my profile 🤬
+## Just kidding 🤪. I really appreciate it 😄
 <!--
 **riyan-ahmed/riyan-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contacts:
+<a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
+<a href="https://www.instagram.com/riyan.a/" target="blank"><img src="logos/instagram.svg" height="40" width="50"/></a>
+<a href="https://discord.com/users/320781028165812236" target="blank"><img src="logos/discord.svg" height="40" width="50"/></a>
