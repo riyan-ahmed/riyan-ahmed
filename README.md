@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Years Badge](https://badges.pufler.dev/years/riyan-ahmed)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/riyan-ahmed/riyan-ahmed)](https://badges.pufler.dev)
 ### Contacts:
 <a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/envelope.svg" height="40" width="50"/></a>
 <a href="https://www.instagram.com/riyan.a/" target="blank"><img src="logos/instagram.svg" height="40" width="50"/></a>
