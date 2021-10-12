@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 <img src="logos/user.svg" height="40" width="40" align="left">
 <a href="https://www.instagram.com/riyan.a/" target="blank">riyan.a</a> <span>hello world</span> 
 <br>
+</h4> 
 <a href="https://www.instagram.com/riyan.a/" target="blank">riyan.a</a> and my discord is <a href="https://discord.com/users/320781028165812236" target="blank">R.A#7406</a>
 
-</h4> 
+
 
 * * *
 
