@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
 <img src="logos/like.svg" height="50" width="50" align="left"><img src="logos/comment.svg" height="50" width="50"><img src="logos/send.svg" height="50" width="50" ><img src="logos/save.svg" align="right" height="50" width="50">
 </p>
-* * *
+
 
 ![](https://img.shields.io/badge/​-Javascript-<COLOR>?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/​-Java-<COLOR>?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/​-Python-<COLOR>?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/​-VS_Code-0af?style=flat&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/​-React-0af?style=flat&logo=react&logoColor=white) ![](https://img.shields.io/badge/​-Git-fa0?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/​-Github-fa0?style=flat&logo=github&logoColor=white) [![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)](https://badges.pufler.dev)
 
