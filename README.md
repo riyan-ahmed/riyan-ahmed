@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 * * *
 
-![](https://img.shields.io/badge/​-Javascript-<COLOR>?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/​-Java-<COLOR>?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/​-Python-<COLOR>?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/​-Git-fa0?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/​-Github-fa0?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/​-VS_Code-0af?style=flat&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/​-React-0af?style=flat&logo=react&logoColor=white) [![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)](https://badges.pufler.dev) ![](https://img.shields.io/badge/​-Javascript-<COLOR>?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/​-Java-<COLOR>?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/​-Python-<COLOR>?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/​-Git-fa0?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/​-Github-fa0?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/​-VS_Code-0af?style=flat&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/​-React-0af?style=flat&logo=react&logoColor=white) 
 
 
