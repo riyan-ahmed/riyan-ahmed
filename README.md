@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/riyan.a/" target="blank"><img src="logos/instagram.svg" height="40" width="50"/></a>
 <a href="https://discord.com/users/320781028165812236" target="blank"><img src="logos/discord.svg" height="40" width="50"/></a>
 
-* * *
 [![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)](https://badges.pufler.dev)
