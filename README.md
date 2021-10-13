@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="logos/zakurotreenew.svg" alt="tree"/>
 
 <p>
-<img src="logos/like.svg" height="50" width="50" align="left"><img src="logos/comment.svg" height="50" width="50"><img src="logos/blank.svg" height="50" width="20"><img src="logos/send.svg" height="50" width="50" ><img src="logos/save.svg" align="right" height="50" width="50">
+<a href="https://c.tenor.com/X3xtaIT3hq0AAAAM/thinking-of-you-blow-kiss.gif"><img src="logos/like.svg" height="50" width="50" align="left"></a><a href="mailto:riyan.ahmed@outlook.com"><img src="logos/comment.svg" height="50" width="50"></a><img src="logos/blank.svg" height="50" width="20"><a href="https://i.ytimg.com/vi/La88ol1znxk/maxresdefault.jpg"><img src="logos/send.svg" height="50" width="50" ></a><a href="https://minions.monster/"><img src="logos/save.svg" align="right" height="50" width="50"></a>
 </p>
 
 <h4>
