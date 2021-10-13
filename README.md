@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="logos/zakurotreenew.svg" alt="tree"/>
 
 <p>
-<a href="" target="blank"><img src="logos/like.svg" height="50" width="50" align="left"></a><a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/comment.svg" height="50" width="50"></a><img src="logos/blank.svg" height="50" width="20"><a href="" target="blank"><img src="logos/send.svg" height="50" width="50" ></a><a href="" target="blank"><img src="logos/save.svg" align="right" height="50" width="50"></a>
+<a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/like.svg" height="50" width="50" align="left"></a><a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/comment.svg" height="50" width="50"></a><img src="logos/blank.svg" height="50" width="20"><a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/send.svg" height="50" width="50" ></a><a href="mailto:riyan.ahmed@outlook.com" target="blank"><img src="logos/save.svg" align="right" height="50" width="50"></a>
 </p>
 
 <h4>
