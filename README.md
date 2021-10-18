@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 * * *
 -->
-[![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)]
+![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)
