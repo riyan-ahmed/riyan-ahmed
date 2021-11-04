@@ -1,4 +1,4 @@
-<--
+<!---
 **riyan-ahmed/riyan-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/riyan.a/" target="blank">riyan.a</a> and my discord is <a href="https://discord.com/users/320781028165812236" target="blank">R.A#7406</a>
 
 </h4> 
-
-* * *
 -->
+* * *
+
 ![Visits Badge](https://badges.pufler.dev/visits/riyanah/riyanah)
