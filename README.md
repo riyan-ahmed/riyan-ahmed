@@ -2,7 +2,7 @@
   
 # Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;%26+Platform+Engineering;2%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,24 +54,6 @@ I'm a **DevOps Engineer** specializing in **Development, DevOps, and Platform En
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyan-ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyan-ahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyan-ahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyan-ahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
 ---
 
