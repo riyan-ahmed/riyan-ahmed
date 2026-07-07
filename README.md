@@ -16,7 +16,7 @@ I'm a **DevOps Engineer** specializing in **Development, DevOps, and Platform En
 - 🌱 Always learning about **emerging technologies** and **best practices**
 - 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
 - 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: **I am a on Stage Singer** && I love sharing knowledge through **training and mentoring** 
+- ⚡ Fun fact: **I am a on Stage Singer** and I love sharing knowledge through **training and mentoring** 
 
 ---
 
