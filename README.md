@@ -69,7 +69,7 @@ I'm a **DevOps Engineer** specializing in **Development, DevOps, and Platform En
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyan-ahmed-devops/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/_classy___boy?igsh=MTE0aTdseXppNHo0ag%3D%3D&utm_source=qr])
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_classy___boy/)
 [![Email](https://img.shields.io/badge/Email-Riyanahmed.a1@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Riyanahmed.a1@gmail.com)
 
 </div>
