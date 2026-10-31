@@ -76,19 +76,19 @@
  <circle cx="785" cy="71" r="5" fill="#55DFB0"/>
  <text x="819" y="76" font-family="monospace" font-size="13" fill="#A4B8D8">riyan@cloud:~/platform</text>
  <path d="M739 94H1120" stroke="#3C5874" stroke-opacity=".6"/>
- <text x="750" y="120" font-family="monospace" font-size="15" fill="#8CCFEA">$ pipeline status --watch</text>
+ <text x="750" y="120" font-family="monospace" font-size="15" fill="#8CCFEA">$ workflow map --demo</text>
  <text x="752" y="155" font-family="monospace" font-size="16" fill="#9FADCB">01   BUILD</text>
  <text x="752" y="186" font-family="monospace" font-size="16" fill="#9FADCB">02   TEST</text>
  <text x="752" y="217" font-family="monospace" font-size="16" fill="#9FADCB">03   SCAN</text>
  <text x="752" y="248" font-family="monospace" font-size="16" fill="#9FADCB">04   DEPLOY</text>
  <g font-family="monospace" font-size="16" fill="#48F3BA" font-weight="bold">
- <text x="1030" y="155">PASS</text>
- <text x="1030" y="186">PASS</text>
- <text x="1030" y="217">PASS</text>
- <text x="1030" y="248">PASS</text>
+ <text x="1030" y="155">FLOW</text>
+ <text x="1030" y="186">FLOW</text>
+ <text x="1030" y="217">FLOW</text>
+ <text x="1030" y="248">FLOW</text>
  </g>
  <path d="M751 267H1107" stroke="#335269"/>
- <text x="752" y="294" font-family="monospace" font-size="13" fill="#65DACA">● resilient systems | safer delivery</text>
+ <text x="752" y="294" font-family="monospace" font-size="13" fill="#65DACA">● illustrative pipeline | not live</text>
  <rect x="1093" y="282" width="7" height="14" fill="#53EBC2"><animate attributeName="opacity" values="0;1;1;0" dur="1.2s" repeatCount="indefinite"/></rect>
  <rect x="723" y="44" width="414" height="273" rx="16" fill="none" stroke="#66F0E5" opacity=".08">
  <animate attributeName="opacity" values=".08;.42;.08" dur="6s" repeatCount="indefinite"/></rect>
