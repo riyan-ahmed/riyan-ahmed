@@ -1,33 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Riyan Ahmed, DevOps Engineer. Cloud Infrastructure and Platform Reliability.">
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="0.6" stop-color="#10243A"/>
-      <stop offset="1" stop-color="#0C3547"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#2DD4BF"/>
-    </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#C9E8F5" stroke-opacity=".07"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-  <rect x="72" y="64" width="58" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="72" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="750" letter-spacing="-1.6" fill="#F8FAFC">Riyan Ahmed</text>
-  <text x="74" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" fill="#A8CBDD">DevOps Engineer  /  Cloud Infrastructure  /  Platform Reliability</text>
-  <text x="74" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="650" letter-spacing="2.1" fill="#61D7E3">AWS  ·  TERRAFORM  ·  KUBERNETES  ·  CI/CD</text>
-  <g fill="none" stroke="#5AD5E5" stroke-width="2" stroke-opacity=".4">
-    <path d="M935 65L1042 103L1108 67M935 65L909 151L1042 103L1113 190L909 151L985 235L1113 190"/>
-    <path d="M1042 103L985 235M1108 67L1113 190"/>
-    <circle cx="935" cy="65" r="9" fill="#123952"/>
-    <circle cx="1042" cy="103" r="13" fill="#133E54"/>
-    <circle cx="1108" cy="67" r="7" fill="#123952"/>
-    <circle cx="909" cy="151" r="10" fill="#123952"/>
-    <circle cx="1113" cy="190" r="11" fill="#123952"/>
-    <circle cx="985" cy="235" r="8" fill="#123952"/>
-  </g>
-  <rect x="0" y="295" width="1200" height="5" rx="2" fill="url(#accent)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Riyan Ahmed, DevOps Engineer, Cloud Infrastructure and Platform Reliability">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050916"/><stop offset=".62" stop-color="#0D1730"/><stop offset="1" stop-color="#0B2232"/></linearGradient>
+ <linearGradient id="neon"><stop stop-color="#44D1FF"/><stop offset=".54" stop-color="#7C89FF"/><stop offset="1" stop-color="#3EE6BE"/></linearGradient>
+ <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101D39" stop-opacity=".94"/><stop offset="1" stop-color="#12283A" stop-opacity=".88"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#32E6D0" stop-opacity=".18"/><stop offset="1" stop-color="#32E6D0" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7EBEE4" stroke-opacity=".07"/></pattern>
+ <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+ <clipPath id="crop"><rect width="1200" height="360" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#crop)">
+<rect width="1200" height="360" fill="url(#bg)"/>
+<rect width="1200" height="360" fill="url(#grid)"/>
+<ellipse cx="1025" cy="110" rx="270" ry="200" fill="url(#glow)"/>
+<circle cx="26" cy="12" r="1.7" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="199" cy="91" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="372" cy="170" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="545" cy="249" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="718" cy="328" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="891" cy="82" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="1064" cy="161" r="1.7" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="77" cy="240" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="250" cy="319" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="423" cy="73" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="596" cy="152" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="769" cy="231" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="942" cy="310" r="1.7" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="1115" cy="64" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="128" cy="143" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="301" cy="222" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="474" cy="301" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="647" cy="55" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="820" cy="134" r="1.7" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="993" cy="213" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="1166" cy="292" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="179" cy="46" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="352" cy="125" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="525" cy="204" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="698" cy="283" r="1.7" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="871" cy="37" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="1044" cy="116" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="57" cy="195" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="230" cy="274" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="403" cy="28" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="576" cy="107" r="1.7" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="749" cy="186" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="922" cy="265" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="1095" cy="19" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="108" cy="98" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="281" cy="177" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="454" cy="256" r="1.7" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="627" cy="335" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="800" cy="89" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="973" cy="168" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="1146" cy="247" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<circle cx="159" cy="326" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="332" cy="80" r="1.7" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="505" cy="159" r="0.9" fill="#9CE9FF" opacity="0.22"/>
+<circle cx="678" cy="238" r="0.9" fill="#9CE9FF" opacity="0.55"/>
+<path d="M0 8H1200" stroke="url(#neon)" stroke-width="5" opacity=".9"/>
+<rect x="62" y="42" width="236" height="31" rx="15" fill="#102840" stroke="#1F7082" stroke-width="1"/>
+<circle cx="82" cy="57.5" r="5" fill="#34E9B2"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="98" y="63" fill="#B8F5E9" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.5" font-weight="700">OPEN TO ENGINEERING ROLES</text>
+<text x="61" y="158" fill="#F3F8FF" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="800" letter-spacing="-1">Riyan Ahmed</text>
+<rect x="63" y="178" width="495" height="3" rx="2" fill="#163D56"/>
+<rect x="-430" y="178" width="120" height="3" rx="2" fill="url(#neon)">
+ <animate attributeName="x" from="-130" to="570" dur="3.5s" repeatCount="indefinite"/>
+</rect>
+<text x="63" y="216" fill="#8BE5FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">DevOps Engineer</text>
+<text x="63" y="246" fill="#D6DFF3" font-family="Arial, Helvetica, sans-serif" font-size="20">Cloud Infrastructure  /  Platform Reliability</text>
+<text x="64" y="303" fill="#84A3C4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2">AWS    •    TERRAFORM    •    KUBERNETES    •    CI/CD</text>
+<g>
+ <rect x="722" y="44" width="415" height="273" rx="16" fill="url(#panel)" stroke="#3D6D8D" stroke-opacity=".65"/>
+ <circle cx="749" cy="71" r="5" fill="#FF7777"/>
+ <circle cx="767" cy="71" r="5" fill="#FFD16D"/>
+ <circle cx="785" cy="71" r="5" fill="#55DFB0"/>
+ <text x="819" y="76" font-family="monospace" font-size="13" fill="#A4B8D8">riyan@cloud:~/platform</text>
+ <path d="M739 94H1120" stroke="#3C5874" stroke-opacity=".6"/>
+ <text x="750" y="120" font-family="monospace" font-size="15" fill="#8CCFEA">$ pipeline status --watch</text>
+ <text x="752" y="155" font-family="monospace" font-size="16" fill="#9FADCB">01   BUILD</text>
+ <text x="752" y="186" font-family="monospace" font-size="16" fill="#9FADCB">02   TEST</text>
+ <text x="752" y="217" font-family="monospace" font-size="16" fill="#9FADCB">03   SCAN</text>
+ <text x="752" y="248" font-family="monospace" font-size="16" fill="#9FADCB">04   DEPLOY</text>
+ <g font-family="monospace" font-size="16" fill="#48F3BA" font-weight="bold">
+ <text x="1030" y="155">PASS</text>
+ <text x="1030" y="186">PASS</text>
+ <text x="1030" y="217">PASS</text>
+ <text x="1030" y="248">PASS</text>
+ </g>
+ <path d="M751 267H1107" stroke="#335269"/>
+ <text x="752" y="294" font-family="monospace" font-size="13" fill="#65DACA">● resilient systems | safer delivery</text>
+ <rect x="1093" y="282" width="7" height="14" fill="#53EBC2"><animate attributeName="opacity" values="0;1;1;0" dur="1.2s" repeatCount="indefinite"/></rect>
+ <rect x="723" y="44" width="414" height="273" rx="16" fill="none" stroke="#66F0E5" opacity=".08">
+ <animate attributeName="opacity" values=".08;.42;.08" dur="6s" repeatCount="indefinite"/></rect>
+</g>
+<path d="M0 355H1200" stroke="url(#neon)" stroke-width="5"/>
+</g>
 </svg>
