@@ -39,7 +39,7 @@ I focus on **AWS, Terraform, Kubernetes and CI/CD**, with a growing interest in 
   <a href="https://github.com/riyan-ahmed/terraform-aws-multi-environment"><img src="./assets/project-terraform.svg" width="49%" alt="Multi-environment AWS infrastructure project" /></a>
   <a href="https://github.com/riyan-ahmed/lean-devsecops-pipeline"><img src="./assets/project-devsecops.svg" width="49%" alt="DevSecOps security pipeline project" /></a>
   <a href="https://github.com/riyan-ahmed/devboard"><img src="./assets/project-devboard.svg" width="49%" alt="DevBoard container and CI project" /></a>
-  <a href="https://github.com/riyan-ahmed/observability-for-devops"><img src="./assets/project-observability.svg" width="49%" alt="Observability stack project" /></a>
+  <a href="https://github.com/riyan-ahmed/aws-vpc-peering-project"><img src="./assets/project-vpc-peering.svg" width="49%" alt="AWS VPC peering and cloud networking lab" /></a>
 </p>
 
 <details>
@@ -49,16 +49,20 @@ I focus on **AWS, Terraform, Kubernetes and CI/CD**, with a growing interest in 
 | :--- | :--- |
 | **[Multi-Environment AWS Infrastructure](https://github.com/riyan-ahmed/terraform-aws-multi-environment)** | Terraform networking module reused across dev, staging and production, with EC2, S3 remote state, separate state keys and state locking. |
 | **[Lean DevSecOps Pipeline](https://github.com/riyan-ahmed/lean-devsecops-pipeline)** | GitHub Actions, SonarCloud, Snyk, Trivy, SARIF reporting and enforced security gates for Java delivery. |
-| **[DevBoard](https://github.com/riyan-ahmed/devboard)** | Containerised React, Go and PostgreSQL platform, non-root images, health checks and CI. Backend Docker image: 34 MB → 26 MB. |
-| **[Observability Stack](https://github.com/riyan-ahmed/observability-for-devops)** | Prometheus, Grafana, Loki, cAdvisor and OpenTelemetry Collector with Docker Compose. |
+| **[DevBoard](https://github.com/riyan-ahmed/devboard)** | Added containerisation and CI/CD to a teaching application using React, Go and PostgreSQL. Implemented non-root images and health checks; reduced the backend image from 34 MB to 26 MB in project testing. |
+| **[AWS VPC Peering Lab](https://github.com/riyan-ahmed/aws-vpc-peering-project)** | Built and tested private connectivity between two AWS VPCs using public/private subnets, route tables, EC2 and security groups. Validated ICMP traffic across peering. |
 
 </details>
 
 ## Professional experience
 
-- **DRIFE | DevOps Engineer / Associate Cloud Developer:** Supported AWS EKS workloads, Jenkins pipelines, Kubernetes troubleshooting, infrastructure changes and release verification.
-- **Carrier Abound | DevOps Engineer:** Worked with Terraform environments, delivery automation, container workflows and operational documentation.
-- **University of Hertfordshire | Research Assistant:** Built and evaluated automated DevSecOps checks for Java applications, including static analysis, dependency scanning, container scanning and security reporting.
+- **DRIFE | Associate Cloud Developer (Nov 2022 – Jul 2023), DevOps Engineer (Jul 2023 – Jan 2024):** Supported AWS EKS workloads, Jenkins pipelines, Kubernetes troubleshooting, reviewed infrastructure changes and release verification.
+- **Carrier Abound | DevOps Engineer (Mar – Aug 2024):** Worked with Terraform across environments, CI/CD workflows, container builds and operational documentation.
+- **University of Hertfordshire | Research Assistant (Jul 2025 – Jul 2026):** Built and evaluated automated DevSecOps checks for Java applications, including static analysis, dependency scanning, container scanning and security reporting.
+
+## Education
+
+**MSc Advanced Computer Science (Extended)** | University of Hertfordshire, 2026
 
 ## Technical toolkit
 
