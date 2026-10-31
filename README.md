@@ -45,12 +45,12 @@ I focus on **AWS, Terraform, Kubernetes and CI/CD**, with a growing interest in 
 <details>
 <summary><strong>Explore the implementation and results</strong></summary>
 
-| Project | Engineering focus |
-| :--- | :--- |
-| **[Multi-Environment AWS Infrastructure](https://github.com/riyan-ahmed/terraform-aws-multi-environment)** | Terraform networking module reused across dev, staging and production, with EC2, S3 remote state, separate state keys and state locking. |
-| **[Lean DevSecOps Pipeline](https://github.com/riyan-ahmed/lean-devsecops-pipeline)** | GitHub Actions, SonarCloud, Snyk, Trivy, SARIF reporting and enforced security gates for Java delivery. |
-| **[DevBoard](https://github.com/riyan-ahmed/devboard)** | Added containerisation and CI/CD to a teaching application using React, Go and PostgreSQL. Implemented non-root images and health checks; reduced the backend image from 34 MB to 26 MB in project testing. |
-| **[AWS VPC Peering Lab](https://github.com/riyan-ahmed/aws-vpc-peering-project)** | Built and tested private connectivity between two AWS VPCs using public/private subnets, route tables, EC2 and security groups. Validated ICMP traffic across peering. |
+| Project | Status | Engineering focus |
+| :--- | :--- | :--- |
+| **[Multi-Environment AWS Infrastructure](https://github.com/riyan-ahmed/terraform-aws-multi-environment)** | Completed personal project | Terraform networking module reused across dev, staging and production, with EC2, S3 remote state, separate state keys and state locking. |
+| **[Lean DevSecOps Pipeline](https://github.com/riyan-ahmed/lean-devsecops-pipeline)** | Completed personal project | GitHub Actions, SonarCloud, Snyk, Trivy and SARIF reporting for a Java application, evaluating security coverage against pipeline performance. |
+| **[DevBoard](https://github.com/riyan-ahmed/devboard)** | Training-project adaptation, in progress | Added Docker hardening, automated tests, GitHub Actions CI and Trivy scanning to a teaching application (React, Go, PostgreSQL). Non-root images; backend image reduced from 34 MB to 26 MB in my own testing. Kubernetes, AWS and GitOps are roadmap items, not yet built. |
+| **[AWS VPC Peering Lab](https://github.com/riyan-ahmed/aws-vpc-peering-project)** | Completed personal lab | Two AWS VPCs with public/private subnets, route tables, EC2 and security groups; ICMP connectivity validated across the peering connection. |
 
 </details>
 
@@ -92,13 +92,16 @@ I focus on **AWS, Terraform, Kubernetes and CI/CD**, with a growing interest in 
 
 <p align="center">
   <a href="https://github.com/riyan-ahmed">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riyan-ahmed&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=80D9FF&line=51D7C4&point=A9EDFF" alt="GitHub contribution activity graph" />
+    <img width="95%" src="https://streak-stats.demolab.com/?user=riyan-ahmed&theme=dark&hide_border=true&background=0D1117&ring=51D7C4&fire=80D9FF&currStreakLabel=A9EDFF&sideLabels=80D9FF&dates=6B7280" alt="GitHub contribution streak and totals" />
   </a>
 </p>
 
 ## Currently building
 
-I'm extending **[SkillPulse: GitHub Actions and Kubernetes](https://github.com/riyan-ahmed/github-actions-kubernetes-masterclass/tree/feature/advanced-devops)**, a fork of a training application, with additional CI improvements, security scanning and Kubernetes operations experiments. This is **work in progress**, with the focus on reliability, GitOps and safer operational workflows.
+I'm extending **[SkillPulse: GitHub Actions and Kubernetes](https://github.com/riyan-ahmed/github-actions-kubernetes-masterclass/tree/feature/advanced-devops)**, a fork of a training application, as a **work in progress**.
+
+- **Done on the branch:** Go tests in CI, Trivy image scanning with enforced gates, Docker build caching, Kustomize overlays for dev, staging and production, monitoring configuration, and backup and health-check scripts.
+- **Planned:** GitOps workflows and further reliability work.
 
 ---
 
