@@ -9,7 +9,12 @@
 </p>
 
 <p align="center">
-  <strong>Building repeatable infrastructure, safer deployments and more reliable systems.</strong>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1100&color=48D8F2&center=true&vCenter=true&width=850&lines=Building+reliable+cloud+infrastructure;Automating+CI%2FCD+and+secure+delivery;Engineering+for+observability+and+resilience" alt="Animated DevOps and cloud engineering focus" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-AWS%20%7C%20Kubernetes%20%7C%20Terraform-1D3557?style=for-the-badge&labelColor=111827" alt="Engineering focus" />
+  <img src="https://img.shields.io/badge/BASED%20IN-United%20Kingdom-0A655B?style=for-the-badge&labelColor=111827" alt="UK based" />
 </p>
 
 ## About me
@@ -30,14 +35,24 @@ I focus on **AWS, Terraform, Kubernetes and CI/CD**, with a growing interest in 
 
 ## Featured engineering projects
 
-These are hands-on projects that show how I approach infrastructure, delivery and operations. Each repository includes the implementation and supporting documentation.
+<p align="center">
+  <a href="https://github.com/riyan-ahmed/terraform-aws-multi-environment"><img src="./assets/project-terraform.svg" width="49%" alt="Multi-environment AWS infrastructure project" /></a>
+  <a href="https://github.com/riyan-ahmed/lean-devsecops-pipeline"><img src="./assets/project-devsecops.svg" width="49%" alt="DevSecOps security pipeline project" /></a>
+  <a href="https://github.com/riyan-ahmed/devboard"><img src="./assets/project-devboard.svg" width="49%" alt="DevBoard container and CI project" /></a>
+  <a href="https://github.com/riyan-ahmed/observability-for-devops"><img src="./assets/project-observability.svg" width="49%" alt="Observability stack project" /></a>
+</p>
+
+<details>
+<summary><strong>Explore the implementation and results</strong></summary>
 
 | Project | Engineering focus |
 | :--- | :--- |
-| **[Multi-Environment AWS Infrastructure](https://github.com/riyan-ahmed/terraform-aws-multi-environment)** | Reusable Terraform networking module for dev, staging and production, with EC2, an S3 remote backend, separate state keys and state locking. |
-| **[Lean DevSecOps Pipeline](https://github.com/riyan-ahmed/lean-devsecops-pipeline)** | Java CI pipeline with GitHub Actions, SonarCloud, Snyk, Trivy, SARIF reporting and security gates. Documents vulnerability remediation and verification. |
-| **[DevBoard: Containerisation and CI/CD](https://github.com/riyan-ahmed/devboard)** | Containerised React, Go and PostgreSQL application with non-root images, health checks, CI validation and image publishing. Optimised the backend image from 34 MB to 26 MB. |
-| **[Observability Stack for DevOps](https://github.com/riyan-ahmed/observability-for-devops)** | Local metrics and log collection using Prometheus, Grafana, Loki, cAdvisor and the OpenTelemetry Collector, deployed with Docker Compose. |
+| **[Multi-Environment AWS Infrastructure](https://github.com/riyan-ahmed/terraform-aws-multi-environment)** | Terraform networking module reused across dev, staging and production, with EC2, S3 remote state, separate state keys and state locking. |
+| **[Lean DevSecOps Pipeline](https://github.com/riyan-ahmed/lean-devsecops-pipeline)** | GitHub Actions, SonarCloud, Snyk, Trivy, SARIF reporting and enforced security gates for Java delivery. |
+| **[DevBoard](https://github.com/riyan-ahmed/devboard)** | Containerised React, Go and PostgreSQL platform, non-root images, health checks and CI. Backend Docker image: 34 MB → 26 MB. |
+| **[Observability Stack](https://github.com/riyan-ahmed/observability-for-devops)** | Prometheus, Grafana, Loki, cAdvisor and OpenTelemetry Collector with Docker Compose. |
+
+</details>
 
 ## Professional experience
 
@@ -68,6 +83,14 @@ These are hands-on projects that show how I approach infrastructure, delivery an
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/riyan-ahmed">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riyan-ahmed&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=80D9FF&line=51D7C4&point=A9EDFF" alt="GitHub contribution activity graph" />
+  </a>
+</p>
 
 ## Currently building
 
